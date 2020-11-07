@@ -1,0 +1,44 @@
+.purple-colour{
+    color:#8845f4;
+}
+body{
+    font-family: sans-serif;
+    line-height: 28px;
+}
+.half-width{
+    width: 50%;
+    float: left;
+}
+.hire-btn{
+    color:white;
+    background-color: #8845f4;
+    padding: 13px 42px 13px 42px;
+    border-radius: 20px;
+    text-decoration:none;
+}
+h1{
+    font-size: 2em;
+}
+.container{
+    padding-left: 5%;
+    display: inline-block;
+}
+.side-image{
+    float: left;
+    width:50% ;
+    height: 50%;
+}
+.animation{
+    background-color: darkturquoise;
+    
+}
+.experiences{
+    padding:30px ;
+    margin:30px ;
+    border-radius:20px;
+    background-color:rgb(238,251,255) ;
+   }
+. experience-item{
+    padding: ;
+    border-left:2px solid rgba(137,130,247,.2); 
+  }
